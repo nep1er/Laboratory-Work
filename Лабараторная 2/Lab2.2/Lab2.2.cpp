@@ -1,15 +1,11 @@
 ﻿#include <iostream>
 using namespace std;
 
-unsigned long long Factorial(int x) 
+unsigned long long Factorial(int x)
 {
-    unsigned long long result = 1;
-
-    for (int i = 2; i <= x; ++i) 
-    {
-        result *= i;
-    }
-    return result;
+    if (x <= 1)
+        return 1;
+    return x * Factorial(x - 1);
 }
 
 unsigned long long BinomCoefficient(int n, int k) 
