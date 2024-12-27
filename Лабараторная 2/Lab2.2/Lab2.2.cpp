@@ -11,6 +11,7 @@ unsigned long long Factorial(int x)
 unsigned long long BinomCoefficient(int n, int k) 
 {
     if (k > n) return 0;
+    
     return Factorial(n) / (Factorial(k) * Factorial(n - k));
 }
 
