@@ -1,0 +1,2 @@
+E:\Program Code\Zadachi\LabC++3\x64\Debug\LabC++3.exe
+C:\Users\Timofey\Desktop\LabC++3.1\x64\Debug\LabC++3.exe
