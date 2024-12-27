@@ -1,0 +1,4 @@
+﻿  LabC++6.3.cpp
+C:\Users\Timofey\Desktop\College\Лабы по C++\Лабараторная 6\LabC++6.3\LabC++6.3.cpp(7,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Timofey\Desktop\College\Лабы по C++\Лабараторная 6\LabC++6.3\LabC++6.3.cpp(8,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  LabC++6.3.vcxproj -> C:\Users\Timofey\Desktop\College\Лабы по C++\Лабараторная 6\LabC++6.3\x64\Debug\LabC++6.3.exe
